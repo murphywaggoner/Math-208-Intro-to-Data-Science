@@ -7,6 +7,12 @@ case study, but one group of students would present on the case study.
 
 - Describe in detail a specific method used.
 
+- Does the case study use the tidyverse?
+
+    - If not, could you understand the code?  Could you rewrite the code to use the tidyverse?
+    
+    - If so, did the case study use the tidyverse in the way we would?
+
 - Describe something you learned that was new.
 
 - What is one piece of advice/whatever that you learned that you think is most important?
@@ -28,4 +34,10 @@ https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects/blob/mast
 
 This case study attempts to answer questions about flight data similar to what we have used in class.
 https://www.r-bloggers.com/a-data-science-case-study-in-r/
+
+## Internal Positioning System
+
+A more sophistocated case study on using an indoor position system to predict locations.  The case study changes the shape of the data and uses a model to understand the data that
+we don't use in our class.  Chapter 1 from **Data Science in R: A Case Studies Approach
+to Computational Reasoning and Problems Solving** by Deborah Nolan and Duncan Temple Lang.
 
