@@ -36,6 +36,10 @@ the analysis beginning with a good look at the data.
 
 [This case study](https://www.r-bloggers.com/a-data-science-case-study-in-r/) attempts to answer questions about flight data similar to what we have used in class.
 
+## Old Faithful
+
+The data on eruption time and intervals between eruptions has been analyzed in many ways.  [Mike Anderson's analysis](http://faculty.business.utsa.edu/manderso/R-examples/Geyser/Geyser.html) focuses on models of the data on Old Faithful found in the **geyser** dataset on R.  Flip through all the tabs in this analysis to see all the models.  The **geyser** dataset is taken from Azzalini and Bowman, “A look at some data on the Old Faithful Geyser”, JRSS-C (Applied Statistics), 39(3), pp357-365 (1990).  For this case study, you are asked to go beyond just what is in Anderson's website, which analyzes data from the 1980s.  At [The Geyser Study and Observation Association](http://www.geyserstudy.org/geyser.aspx?pGeyserNo=OLDFAITHFUL)  you'll find Old Faithful data for 2000 to 2011.  However, the data is in a different format than the **geyser** data.  Use R to read the data there, create a tibble with the same variables as **geyser** and rerun Anderson's analysis.  Are the results the same?
+
 
 ## Internal Positioning System
 
