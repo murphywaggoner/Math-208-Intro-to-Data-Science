@@ -17,6 +17,8 @@ case study, but one group of students would present on the case study.
 
 - What is one piece of advice/whatever that you learned that you think is most important?
 
+- How could the case study be improved?
+
 ## International Adoptions
 
 This case study uses a dataset from the May 1993 *Ours Magazine* published by [Adoptive Parents](https://www.adoptivefamilies.com/)
