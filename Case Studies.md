@@ -17,6 +17,16 @@ case study, but one group of students would present on the case study.
 
 - What is one piece of advice/whatever that you learned that you think is most important?
 
+## International Adoptions
+
+This case study uses a dataset from the May 1993 *Ours Magazine* published by [Adoptive Parents](https://www.adoptivefamilies.com/)
+to investigate changes in the
+number of visas issued to prospective parents from the U.s. who are adopting from other countries.  The data has a long right 
+tail and so a transformation of the data is needed to understand it.  The original case study comes from 
+*A Casebook for a First Course in Statistics and Data Analysis* by Chatterjee, Handcock, and Simonoff.  A version of it with
+R code is in your course Scholar site along with the data set.  It might be possible to do a more contemporary study or long-term
+study using data from the [U.S. government travel site](https://travel.state.gov/content/travel/en/Intercountry-Adoption/adopt_ref/adoption-statistics.html.).
+
 ## La Quinta
 
 [A well-developed case study](https://www.rstudio.com/resources/webinars/data-science-case-study/)
