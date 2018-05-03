@@ -19,6 +19,17 @@ case study, but one group of students would present on the case study.
 
 - How could the case study be improved?
 
+**Note:** There is a good chance that you can find other resources for each of these case studies below.  That's the good news, if you're tenacious enough to search for them.  The bad news is that other sources might not use the tools you are learning in R4DS.
+
+## Cleaning and visualizing genomic data
+
+This article demonstrates the value of tidy data for visualization.  The tidying is done to a gene expression data set, but the process can be understood without knowing anything about genomics.  In fact, that is the point of the article! The article can be found at [Cleaning and visualizing genomic data: a case study in tidy analysis](http://varianceexplained.org/r/tidy-genomics/), but the code is a little dated.  See the instructor for suggestions on how to "fix" the code.
+
+## Vignettes for tidy data
+
+This is not so much a case study as a series of examples of tidying various data, including Billboard ratings.
+The vignettes can be found at [Tidy data](https://cran.r-project.org/web/packages/tidyr/vignettes/tidy-data.html), which is a code-heavy and shorter version of Hadley Wickham's, [Tidy data](http://vita.had.co.nz/papers/tidy-data.html) published in the The Journal of Statistical Software, vol. 59, 2014.
+
 ## International Adoptions
 
 This case study uses a dataset from the May 1993 *Ours Magazine* published by [Adoptive Parents](https://www.adoptivefamilies.com/)
@@ -68,4 +79,8 @@ of San Francisco wrote the [questions](https://github.com/murphywaggoner/Intro-D
 This open-ended case study asks you to use text manipulation and regular expressions to gather information from a set of 
 tweets and the State of the Union speeches from 1790 to 2012.  Dr. James D. Wilson of University
 of San Francisco wrote the [questions](https://github.com/murphywaggoner/Intro-Data-Science/blob/master/Code_Demonstrations/Case%20Study%202/CaseStudy2.pdf) and gathered the [data](https://github.com/murphywaggoner/Intro-Data-Science/tree/master/Data).
+
+## UN Voting Data
+
+This case study is an exploratory data analysis of historical voting data from the General Assembly of the United Nations and goes through tidying, visualizing, and modeling.  This case study is a free part of a Data Camp course on Exploratory Data Analysis in R..  Sources include the [lectures for the course](https://www.datacamp.com/courses/exploratory-data-analysis-in-r-case-study) and the [course notes](https://rpubs.com/williamsurles/299664) from the  written by William Surles. To get to the lectures on the course page, scroll down until you get to "Data Cleaning and Summarizing with R." 
 
